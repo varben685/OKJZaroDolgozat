@@ -1,0 +1,368 @@
+#mainNav .navbar-brand {
+  background-image: url(../../assets/img/logo.png);
+  color: #fed136;
+  font-family: Kaushan Script,Helvetica Neue,Helvetica,Arial,cursive;
+  height: 100px;
+  width: 84px;
+  background-size: cover;
+}
+
+#mainNav {
+  background-color: #c1272f !important;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #130e0e;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-size: 90%;
+  font-weight: 400;
+  padding: .75em 0;
+  letter-spacing: 1px;
+  color: #fff;
+  font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: bold;
+}
+
+@media (min-width:768px) {
+  header.masthead .intro-text .intro-lead-in {
+    font-size: 20px;
+    font-style: italic;
+    line-height: 40px;
+    margin: 54px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 4px 0px 2px;
+  }
+}
+
+.navbar {
+  position: fixed;
+  padding: .1rem 1rem;
+}
+
+@media (min-width:992px) {
+  #mainNav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: padding-top .3s,padding-bottom .3s;
+    border: none;
+    position: fixed;
+    background-color: transparent;
+  }
+}
+
+header.masthead {
+  text-align: center;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: 40%;
+  background-size: cover;
+}
+
+.btn-outline-primary:hover {
+  color: #212529;
+  background-color: #c1272f;
+  border-color: #c1272f;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
+  color: #212529;
+  background-color: #c1272f;
+  border-color: #c1272f;
+  border-width: medium;
+}
+
+.btn-outline-primary {
+  color: #fed136;
+  border-color: #c1272f;
+}
+
+#mainNav .navbar-toggler {
+  font-size: 12px;
+  right: 0;
+  padding: 13px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 0;
+  background-color: #000000;
+  font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #212529;
+  background-color: #c1272f;
+  border-color: #c1272f;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #c1272f;
+  border-color: #c1272f;
+}
+
+.btn-primary:hover {
+  color: #212529;
+  background-color: #c1272f;
+  border-color: #c1272f;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #212529;
+  background-color: #c1272f;
+  border-color: #c1272f;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #d3151e !important;
+  border-color: #d3151e !important;
+  color: #fff;
+}
+
+.img-fluid, .img-thumbnail {
+  max-width: 100%;
+  height: auto;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition: all .5s ease;
+  opacity: 0;
+  background: rgb(193,39,47);
+}
+
+@media (min-width:768px) {
+  .col-md-6 {
+    -ms-flex: 0 0 33.33333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+  }
+}
+
+.text-primary {
+  color: #c1272f!important;
+}
+
+@media (min-width:768px) {
+  .col-md-4 {
+    -ms-flex: 0 0 33.33333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+  }
+}
+
+.table-fix {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.bg-light {
+  background-color: #ffffff!important;
+}
+
+section {
+  padding: 80px 0;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.section-subheading.text-muted {
+  margin-bottom: 15px;
+}
+
+#ballg {
+}
+
+@media (min-width:767px) {
+  #portfolio .portfolio-item {
+    margin: 0 0 30px;
+  }
+}
+
+.img-fliud valtozo {
+}
+
+@media (min-width: 768px) {
+  .a .img-fluid {
+    /*height: 169px;*/
+    /*width: 250px;*/
+  }
+}
+
+@media (min-width: 768px) {
+  .a .img-fluid {
+    /*height: 169px;*/
+    /*width: 250px;*/
+  }
+}
+
+@media (min-width: 768px) {
+  .a .img-fluid {
+    /*height: 169px;*/
+    /*width: 250px;*/
+  }
+}
+
+@media (min-width: 992px) {
+  .a .img-fluid {
+    /*height: 232px;*/
+    /*width: 300px;*/
+  }
+}
+
+@media (min-width: 1200px) {
+  .a .img-fluid {
+    /*height: 281px;*/
+    /*width: 350px;*/
+  }
+}
+
+@media (min-width: 300px) {
+  header.masthead {
+    background-size: cover;
+  }
+}
+
+@media (min-width: 1200px) {
+  #bal lg {
+    height: 467px;
+    width: 290px;
+  }
+}
+
+@media (min-width: 576px) {
+  #ballg {
+    width: 350px;
+    height: 434px;
+  }
+}
+
+@media (min-width: 768px) {
+  #ballg {
+    width: 350px;
+    height: 281px;
+  }
+}
+
+@media (min-width: 992px) {
+  #ballg {
+    width: 350px;
+    height: 388px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #ballg {
+    width: 350px;
+    height: 466px;
+  }
+}
+
+@media (min-width: 576px) {
+  #jobb {
+    height: 321px;
+  }
+}
+
+@media (min-width: 768px) {
+  #jobb {
+    height: 280px;
+  }
+}
+
+@media (min-width: 992px) {
+  #jobb {
+    height: 388px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #jobb {
+    height: 466px;
+  }
+}
+
+@media (min-width: 576px) {
+  .mobil {
+    font-size: 43px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 4px 0px 2px;
+    font-family: 'Droid Serif';
+  }
+}
+
+@media (min-width: 300px) {
+  #mobil {
+    font-size: 37px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 4px 0px 2px;
+    font-family: 'Droid Serif';
+  }
+}
+
+@media (min-width: 576px) {
+  #mobil {
+    font-size: 44px;
+  }
+}
+
+@media (min-width: 768px) {
+  #mobil {
+    font-size: 48px;
+  }
+}
+
+@media (min-width: 992px) {
+  #mobil {
+    font-size: 51px;
+    height: 0px;
+    margin: 0px;
+    padding: 0px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #mobil {
+    font-size: 61px;
+    margin: 0px;
+    padding: 0px;
+  }
+}
+
+#carrer {
+  background-image: url("../../assets/img/szek.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: rgba(33,37,41,0.72);
+}
+
